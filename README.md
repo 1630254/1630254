@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Manas Bhowmick  
 
 🎯 **Site Reliability Engineer (SRE) @ TCS**  
-💼 15+ years of IT experience | 1.5 years as SRE | Deployed for a UK‑based professional  
-💻 Vast expertise in **Linux System Administration, Data Center Operations, Storage, and Desktop Support**
+💼 15+ years of IT experience | 1.5 years as SRE | Deployed for a UK‑based client. 
+💻 Vast expertise in **Linux System Administration, Data Center Operations, Backup & Storage, and Desktop Support**
 
 ---
 
