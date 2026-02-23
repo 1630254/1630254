@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manas Bhowmick  
 
-🎯 **Site Reliability Engineer (SRE) @ TCS**  
+🎯 **Site Reliability Engineer (SRE) @ Tata Consultancy Service**  
 💼 15+ years in IT | 1.5 years as SRE | UK‑based deployment  
 
 ---
