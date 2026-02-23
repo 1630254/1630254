@@ -18,11 +18,14 @@
 
 ---
 
-## 📚 Featured Repos
-- 📘 [DevOps Notes](https://github.com/1630254/devops-notes)  
-- 📗 [90 Days of DevOps](https://github.com/1630254/90DaysOfDevOps)  
-- 🐚 [Shell Scripts](https://github.com/1630254/shell-scripts)  
-- 🐍 [Python Scripts](https://github.com/1630254/python-scripts)  
+## 🔥 Popular Repos to Explore
+
+| Repo | Description |
+|------|-------------|
+| [90DaysOfDevOps](https://github.com/1630254/90DaysOfDevOps) | DevOps notes, scripts, and day‑to‑day activities |
+| [devops-notes](https://github.com/1630254/devops-notes) | Contains CheatSheets |
+| [shell-scripts](https://github.com/1630254/shell-scripts) | Contains Shell Scripts |
+| [python-scripts](https://github.com/1630254/python-scripts) | Contains Python Scripts |
 
 ---
 
